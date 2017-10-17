@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="NumberWordsTests" project="Numbers" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="devops.numbers.NumberWordsTests" time="4.811">
+    <testcase name="numberOutOfRangeReturnsError" classname="devops.numbers.NumberWordsTests" time="2.92"/>
+    <testcase name="numberOneReturnsOne" classname="devops.numbers.NumberWordsTests" time="1.891"/>
+  </testsuite>
+</testrun>
